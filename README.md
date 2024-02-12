@@ -2,9 +2,9 @@
 
 ### Education
 
-- Ph.D Chemistry | Northeastern University, Boston, MA, 02135 | (GPA 3.84/4.00) | (_2018-2023_) (GPA 3.84/4.00)
+- Ph.D Chemistry | Northeastern University, Boston, MA, 02135 | (GPA 3.84/4.00) | (_2018-2023_) 
 
-- B.Sc. Immunology & Integrative Molecular Biology University of Colombo, Sri Lanka | (GPA 3.43/4.00) | (_2013-2017_)
+- B.Sc. Immunology & Integrative Molecular Biology | University of Colombo, Sri Lanka | (GPA 3.43/4.00) | (_2013-2017_)
 
 ### TECHNICAL SKILLS
 
