@@ -53,7 +53,7 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 - Experienced with process optimization (upstream and downstream), scale-up and scale-down, process control strategy development, process monitoring and trending, quality and purity optimization, and quantifying and qualifying the final product
 - Involved with oncology research and AAV studies. Used multiple molecular biology techniques to optimize the process and identify drug hits
 
-  **Wildlife & Wilderness Trust| University of Colombo – Molecular Biologist** **_(2013 MAR - 2017 MAR)_**
+**Wildlife & Wilderness Trust / University of Colombo – Molecular Biologist** **_(2013 MAR - 2017 MAR)_**
 - Knowledgeable innovator with expertise in bioinformatics and software knowledge as evidenced by the discovery of two new drugs as topoisomerase I inhibitors—structure-based drug discovery
 - We found new edge effects on the Sri Lankan leopard-prey pattern by troubleshooting and optimizing 7 analytical techniques and using statistical analysis
 - Found threatening levels of arsenic and glyphosate in drinking water by using rodent models, cytotoxicity, and immunological details with 10+ immunological techniques, including oncology test development, data analysis, data interpretation, and ligand binding assays
@@ -62,37 +62,37 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 - Engineered antibodies and characterizing them with molecular and immunological techniques
 
 ### LICENCES and CERTIFICATIONS 
-- 2022 - Present | Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering
+ 2022 - Present | Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering
 
 ### PROFESSIONAL AFFILIATIONS
-- 2023 - Present | Sigma XI honor society member
-- 2019 – Present | Member of Americal Chemical Society (ACS)
-- 2021 - Present | Northeast Section of Young Chemist Committee (NSYCC)
+ 2023 - Present | Sigma XI honor society member
+ 2019 – Present | Member of Americal Chemical Society (ACS)
+ 2021 - Present | Northeast Section of Young Chemist Committee (NSYCC)
 
 ### AWARDS and NOMINATIONS
-- 2022 | Ph.D. Network travel grant
-- 2020, 2021, 2022 | American Chemical Society Virtual Meeting scholarship award
-- 2021 | Best poster presentation – FALL - American Chemical Society
-- 2021 | Nominated for College of Science Dean’s Graduate Student Excellence Award in Leadership
-- 2018 | Graduate student scholarship award, Northeastern university
+ 2022 | Ph.D. Network travel grant
+ 2020, 2021, 2022 | American Chemical Society Virtual Meeting scholarship award
+ 2021 | Best poster presentation – FALL - American Chemical Society
+ 2021 | Nominated for College of Science Dean’s Graduate Student Excellence Award in Leadership
+ 2018 | Graduate student scholarship award, Northeastern university
 
 ### INVITED TALKS
-- 2023 | Bridgewater State University, MA, United States | Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties
-- 2022 | University of Colombo | Where to next after bachelors?
+ 2023 | Bridgewater State University, MA, United States | Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties
+ 2022 | University of Colombo | Where to next after bachelors?
 
 ### EDITORIAL SERVICE
-- 2023 - Present | Review Editor Animals of Clinical Epidemiology and Toxicology
-- 2023 – Present | Review Editor in Frontiers in Chemistry
-- 2023 - Present | Review Editor Bentham Science Publishers
-- 2023 - Present | Review Editor Advances in Clinical Toxicology
+ 2023 - Present | Review Editor Animals of Clinical Epidemiology and Toxicology
+ 2023 – Present | Review Editor in Frontiers in Chemistry
+ 2023 - Present | Review Editor Bentham Science Publishers
+ 2023 - Present | Review Editor Advances in Clinical Toxicology
 
 ### LEADERSHIP EXPERIENCE
-- 2021 – Present | E-board member of Northeastern Section Young Chemist Committee (NSYCC)
-- 2021 – Present | Organizing annual NSYCC regional conference
-- 2019 – 2022 | Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
-- 2020 | Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
-- 2019 | 2020 - Graduate student Liaison of the Chemistry and Chemical Biology department
-- 2019 | Graduate student Panelist for the Chemistry open house
+ 2021 – Present | E-board member of Northeastern Section Young Chemist Committee (NSYCC)
+ 2021 – Present | Organizing annual NSYCC regional conference
+ 2019 – 2022 | Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
+ 2020 | Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
+ 2019 | 2020 - Graduate student Liaison of the Chemistry and Chemical Biology department
+ 2019 | Graduate student Panelist for the Chemistry open house
 
 ### REVIEW SERVICE TO PROFESSIONAL JOURNALS
 1. Genes
