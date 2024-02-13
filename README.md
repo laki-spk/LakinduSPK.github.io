@@ -87,3 +87,39 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 2023 - Present | Review Editor Advances in Clinical Toxicology
 
 ### LEADERSHIP EXPERIENCE
+2021 – Present | E-board member of Northeastern Section Young Chemist Committee (NSYCC)
+2021 – Present | Organizing annual NSYCC regional conference
+2019 – 2022 | Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
+2020 | Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
+2019 | 2020 - Graduate student Liaison of the Chemistry and Chemical Biology department
+2019 | Graduate student Panelist for the Chemistry open house
+
+### REVIEW SERVICE TO PROFESSIONAL JOURNALS
+1. Genes
+2. Biochemistry Journal
+3. Nature Chemistry
+5. Bentham Science Publishers - Current Bioactive Compounds
+6. Current Medicinal Chemistry
+7. Advances in Clinical Toxicology
+8. Qeios
+9. Current Cancer Drug Targets
+10. Trends in Genetics and Evolution
+
+### CONFERENCE PRESENTATIONS
+1. **L.S. Pathira Kankanamge**, A. Shafique, S. M. Iyenger, Kelly K. Barnsley, P. Beuning, M. Ondrechen, Machine Learning for protein function prediction and for understanding how enzymes work, APS 2024 (submitted) - **_Oral_**
+2. M. Ondrechen, **L.S. Pathira Kankanamge**, A. Shafique, P. Beuning, Using AI to understand enzyme function and effects of cancer-associated mutations, EMC 2024 (submitted) - _**Poster**_
+3. M. Ondrechen, **L.S. Pathira Kankanamge**, A. Shafique, P. Beuning, Machine Learning for understanding enzyme function and effects of cancer-associated mutations, ASBMB 2024 (submitted) - _**Oral**_
+4. P. Beuning, **L.S. Pathira Kankanamge**, M. Pettinato, D. Wrighting. Future faculty workshop at Northeastern University. NERM 2023 - _**Oral**_
+5. A. Mora, **L.S. Pathira Kankanamge**, J. Sefciova, J. Ahn, P. Beuning. Characterization of cancer associated single nucleotide polymorphism in Y family DNA polymerase kappa – NERM 2023 – _**Poster**_
+6. **Kankanamge, L.P.**, Beuning, P., Ondrechen. M., Predicting protein function via local structure alignment, ASBMB 2023- _**Oral**_
+7. **Kankanamge L. S. P.**, Ondrechen M. J., Beuning P.,Stabilization of cancer associated DNA polymerase kappa variants with preferred substrates, ACS Spring 2022, San dIego, CA, March 2022 - _**Oral**_
+8. Kinare M., **Kankanamge L. S. P.**, Ondrechen M. J., Beuning P., Analysis of Human DNA polymerase kappa and Din B polymerase activity with damaged DNA, ACS Fall 2021 Virtual, August 2022 - _**Award winning Poster**_
+9. Abeywickrama, H. L. T. C., Rabindrakumar, M. S. K., **Pathira Kankanamge, L. S.**, Thoradeniya, T., & Galhena, G. H. Modulatory Role of TMPRSS6 (Transmembrane Serine Protease 6) rs855791T>C Polymorphism on Iron Homeostasis: an in-silico Protein-protein Docking Model, International conference on multidisciplinary approaches in science 2021- _**Oral**_
+10. **Kankanamge L. S. P.**, Ondrechen M. J., Beuning P., Computational criteria to determine the activity of DNA polymerase kappa variants and association to cancer. 25th Annual Buffalo DNA replication and repair symposium. July 2021 – _**Oral**_
+11.  Jong S., **Kankanamge L. S. P**., Ondrechen M. J., Beuning P., A study to identify cancer relatedness of human DNA polymerase eta. RICE Virtual expo. Feb 2021 - _**Poster**_
+12.  **Kankanamge L. S. P.**, Watson S., Ondrechen M. J., Beuning P., Functional Characterization of wood-degrading proteins produced by shipworm digestive gland. 21st Annual northeast student chemistry research symposium, Simmons university, Boston, MA. October, 2018 – _**Poster**_
+13.  Kankanamge L. S. P., Perera I. C., Structure guided design of Xanthomonas oryzae pv. oryzae topoisomerase I Inhibitors, 1st Molecules Medicinal Chemistry symposium, Barcelona, Spain. September 2017 - _**Oral**_
+
+### PUBLICATIONS
+Visit >> Google scholar  >> 
+Visit >> Research gate   >>
