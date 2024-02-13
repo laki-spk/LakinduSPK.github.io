@@ -62,7 +62,7 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 - Engineered antibodies and characterizing them with molecular and immunological techniques
 
 ### LICENCES and CERTIFICATIONS 
- 2022 - Present | Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering
+- 2022 - Present | Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering 
 
 ### PROFESSIONAL AFFILIATIONS
  2023 - Present | Sigma XI honor society member
