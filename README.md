@@ -66,7 +66,7 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 
 ### PROFESSIONAL AFFILIATIONS
 - 2023 - Present | Sigma XI honor society member
-- 2019 – Present | Member of Americal Chemical Society (ACS) 
+- 2019 – Present | Member of Americal Chemical Society (ACS)
 - 2021 - Present | Northeast Section of Young Chemist Committee (NSYCC)
 
 ### AWARDS and NOMINATIONS
