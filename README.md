@@ -1,4 +1,4 @@
-# Scientist |Molecular Biologist | Compuatational Chemist
+# Scientist | Molecular Biologist | Compuatational Chemist
 
 ### Education
 
@@ -17,7 +17,7 @@
   
 **Gel Electrophoresis** : SDS PAGE, Urea- Acrylamide, Western blot, Agarose, Dot Blot
 
-**Transcriptomics Packages** | 10X genomics, Cellranger, Seurat, SCENIC+, Signic, NicheNet, Cellchat, Scanpy, pycisTopic
+**Transcriptomics Packages** : 10X genomics, Cellranger, Seurat, SCENIC+, Signic, NicheNet, Cellchat, Scanpy, pycisTopic
 
 **Languages** : Python, R
 
@@ -33,17 +33,17 @@
 
 **Research Fellow at Harvard Medical School & Boston Children's Hopsital     _(2023 AUG - Present)_**
 - Conducting research on decoding mechanisms of mammalian heart regeneration
-- In vivo screening and AAV targeted gene delivery
-- Using R, python in analysis of 10 X genomics and single cell sequencing, identifying gene networks and relationships
-- Performing FACS in cell sorting
+- Use of iAAV-Barcoded human ORF libraries to determine genes involved in cardiomyocyte regeneration
+- Using R, python in analysis of multiomics and single cell sequencing  to identify gene regulatory networks and relationships
+- Genotyping and imaging to identify gene expression
 - Mentoring graduate students
 
 **Boston Institute of Biotechnology – Scientist I     _(2023 JAN - 2023 AUG)_**
-- Conducting research on Pegozafermin (BIO89-100) which is an ideal candidate for liver and cardio-metabolic diseases
-- Performing stability assays to identify stability of drugs in megascale production
-- Performing TFF (UF/DF) and protein puriifications
+- Conducted research on Pegozafermin (BIO89-100) which is an ideal candidate for liver and cardio-metabolic diseases
+- Performed stability assays to identify stability of drugs in megascale production
+- Performed large scale (50 L) TFF (UF/DF) and protein puriifications
 - Identified optimum Dynamic Binding capacity of FGF21 on anion exchange column
-- Identified best cleaning reagents (cost effective) for regeneration of columns
+- DoE to identify best cleaning reagents (cost effective) for regeneration of columns
 - PEGylation and optimizing enzymatic reactions of FEG21, using bioinformatics for hypothesis driven testing, and dynamic binding assays to increase the product yield and to assess the interactions of the protein
 - Scale-up and Scale-down process development
 - CHO-Cell line development, AAV9 purification, protein expression, treatment with drugs and morphology characterization
@@ -54,19 +54,16 @@
 
 **Northeastern University - Research assistant – Chemistry Dpt. 
 DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SEP - 2023 JAN)_**
-- Worked under Dr. Penny Beuning and Dr. Mary Jo Ondrechen on Y family DNA polymerases and Haloacid dehalogenases
-- Use of molecular visualization tools, bioinformatics machine learning techniques, & electro-statistics to predict & identify the activity of biomolecules; behavioral changes of protein-substrate activity at different pH levels, & molecular screening to predict bond lengths & best docking models
-- Established a new protocol to identify deleterious mutations associated with Human DNA polymerase kappa, Din B, DpO4 and DNA polymerase eta by using digital databases, molecular modeling, protein engineering, and machine learning electro statistics
-- Performed in vitro protein engineering, site directed mutagenesis, biochemical assays and to identified activity DNA polymerase kappa and developed 17 cancer biomarkers.
-- Performed protein engineering to identify active site residues/ domains of DNA polymerase kappa and its orthologs Din B and DpO4
-- Used machine learning in silico methods to predict the function of structural genomic proteins and validated in vitro biochemically and found 5 novel Haloacid dehalogenases
-- Performed kinetic analysis on Y family DNA polymerases and Haloacid dehalogenases to determine their activity
-- Used HEK293T cell line of DNA polymerase kappa KO and WT to identify the effect of DNA polymerase kappa mutations
-- Use of various chromatography techniques, primer extension assays, kinetic assays, thermal stability, cell lines, and in-gel assays to identify, quantify, and validate the biochemical characterization of protein-protein/DNA/RNA/Ligand interaction of DNA polymerases and haloacid dehalogenases
-- Excellent teamwork & collaboration skills, productive in cross-functional teams, and resource management demonstrated by managing EHS & multifaceted biochemical research projects, resulted in the development of two international collaborations and $1.2 million in grant funding.
+- Conducted research on Y family DNA polymerases and Haloacid dehalogenases.
+- Utilized molecular visualization tools, bioinformatics machine learning techniques, and electro-statistics to predict and identify the activity of single nucleotide polymorphisms of biomolecules, behavioral changes of protein-substrate activity at different pH levels, and molecular screening to predict bond lengths and best docking models.
+- Established a new protocol to identify deleterious mutations associated with Human DNA polymerases kappa, Din B, DpO4, and DNA polymerase eta using digital databases, molecular modeling, protein engineering, and machine learning electrostatistics.
+- Performed in vitro protein engineering and biochemical assays, Chromatography techniques, DOE including enzyme kinetics and 10+ other molecular characterization techniques to identify the activity of DNA polymerase kappa, resulting 17 cancer biomarkers and protein/DNA/RNA/Ligand interactions
+- Utilized machine learning in silico methods to predict the function of structural genomic proteins, validated in vitro biochemically, and discovered 5 novel Haloacid dehalogenases for potential use in bioremediation.
+- Used HEK293T cell lines of DNA polymerase kappa KO and WT to identify the effect of DNA polymerase kappa mutations.
+- Demonstrated excellent teamwork and collaboration skills, productivity in cross-functional teams, and effective resource management, leading to the management of EHS and multifaceted biochemical research projects, resulting in the development of two international collaborations and securing $1.2 million in grant funding.
 
-**Head TA**
-- Served as an instructor & Head Teaching assistant for both laboratories and lecture recitations in general chemistry. These roles both required the ability to convey material in a clear and concise manner to ensure comprehension of topics. These courses teach fundamental understandings in chemistry and related laboratory skills, which involve proper handling of materials, scientific writing, and maintaining a proper lab notebook.
+**Head Teaching Assistant**
+- Served as an instructor and Head Teaching Assistant for general chemistry courses, conducting both laboratory and lecture recitations. Responsibilities included effectively communicating complex material to ensure understanding, covering fundamental concepts in chemistry and laboratory skills such as material handling, scientific writing, and maintaining proper lab records.
 
 **Sun Pharma Industries – Molecular Biologist** **_(2017 MAR - 2018 AUG)_**
 - Business acumen and a high level of industry understanding contributed to the chain of operations on demand and met deadlines for all the projects in CRO.
@@ -82,37 +79,38 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 - Engineered antibodies and characterizing them with molecular and immunological techniques
 
 ### LICENCES and CERTIFICATIONS 
- 2022 - Present | Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering 
+_2022 - Present_ : Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering 
+_2023 - Present_ : ACS cerified reviewer
 
 ### PROFESSIONAL AFFILIATIONS
- 2023 - Present | Sigma XI honor society member
- 2019 – Present | Member of Americal Chemical Society (ACS)
- 2021 - Present | Northeast Section of Young Chemist Committee (NSYCC)
+_2023 - Present_ : Sigma XI honor society member
+_2019 – Present_ : Member of Americal Chemical Society (ACS)
+_2021 - Present_ : Northeast Section of Young Chemist Committee (NSYCC)
 
 ### AWARDS and NOMINATIONS
- 2022 | Ph.D. Network travel grant
- 2020, 2021, 2022 | American Chemical Society Virtual Meeting scholarship award
- 2021 | Best poster presentation – FALL - American Chemical Society
- 2021 | Nominated for College of Science Dean’s Graduate Student Excellence Award in Leadership
- 2018 | Graduate student scholarship award, Northeastern university
+_2022_        : Ph.D. Network travel grant
+_2020 - 2022_ : American Chemical Society Virtual Meeting scholarship award (Theree consecutive years)
+_2021_        : Best poster presentation – FALL - American Chemical Society
+_2021_        : Nominated for College of Science Dean’s Graduate Student Excellence Award in Leadership
+_2018_        : Graduate student scholarship award, Northeastern university
 
 ### INVITED TALKS
- 2023 | Bridgewater State University, MA, United States | Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties
- 2022 | University of Colombo | Where to next after bachelors?
+_2023_ : Bridgewater State University, MA, United States | Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties
+_2022_ : University of Colombo | Where to next after bachelors?
 
 ### EDITORIAL SERVICE
- 2023 - Present | Review Editor Animals of Clinical Epidemiology and Toxicology
- 2023 – Present | Review Editor in Frontiers in Chemistry
- 2023 - Present | Review Editor Bentham Science Publishers
- 2023 - Present | Review Editor Advances in Clinical Toxicology
+_2023 - Present_ : Review Editor Animals of Clinical Epidemiology and Toxicology
+_2023 – Present_ : Review Editor in Frontiers in Chemistry
+_2023 - Present_ : Review Editor Bentham Science Publishers
+_2023 - Present_ : Review Editor Advances in Clinical Toxicology
 
 ### LEADERSHIP EXPERIENCE
- 2021 – Present | E-board member of Northeastern Section Young Chemist Committee (NSYCC)
- 2021 – Present | Organizing annual NSYCC regional conference
- 2019 – 2022 | Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
- 2020 | Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
- 2019 | 2020 - Graduate student Liaison of the Chemistry and Chemical Biology department
- 2019 | Graduate student Panelist for the Chemistry open house
+_2021 – Present_ : E-board member of Northeastern Section Young Chemist Committee (NSYCC)
+_2021 – Present_ : Organizing annual NSYCC regional conference
+_2019 – 2022_    : Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
+_2020_           : Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
+_2019 - 2020_    : Graduate student Liaison of the Chemistry and Chemical Biology department
+_2019_           : Graduate student Panelist for the Chemistry open house
 
 ### REVIEW SERVICE TO PROFESSIONAL JOURNALS
 1. Genes
