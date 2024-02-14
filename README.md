@@ -79,38 +79,38 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 - Engineered antibodies and characterizing them with molecular and immunological techniques
 
 ### LICENCES and CERTIFICATIONS 
-_2022 - Present_ : Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering 
-_2023 - Present_ : ACS cerified reviewer
+  _2022 - Present_ : Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering 
+  _2023 - Present_ : ACS cerified reviewer
 
 ### PROFESSIONAL AFFILIATIONS
-_2023 - Present_ : Sigma XI honor society member
-_2019 – Present_ : Member of Americal Chemical Society (ACS)
-_2021 - Present_ : Northeast Section of Young Chemist Committee (NSYCC)
+  _2023 - Present_ : Sigma XI honor society member
+  _2019 – Present_ : Member of Americal Chemical Society (ACS)
+  _2021 - Present_ : Northeast Section of Young Chemist Committee (NSYCC)
 
 ### AWARDS and NOMINATIONS
-_2022_        : Ph.D. Network travel grant
-_2020 - 2022_ : American Chemical Society Virtual Meeting scholarship award (Theree consecutive years)
-_2021_        : Best poster presentation – FALL - American Chemical Society
-_2021_        : Nominated for College of Science Dean’s Graduate Student Excellence Award in Leadership
-_2018_        : Graduate student scholarship award, Northeastern university
+  _2022_        : Ph.D. Network travel grant
+  _2020 - 2022_ : American Chemical Society Virtual Meeting scholarship award (Theree consecutive years)
+  _2021_        : Best poster presentation – FALL - American Chemical Society
+  _2021_        : Nominated for College of Science Dean’s Graduate Student Excellence Award in Leadership
+  _2018_        : Graduate student scholarship award, Northeastern university
 
 ### INVITED TALKS
-_2023_ : Bridgewater State University, MA, United States | Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties
-_2022_ : University of Colombo | Where to next after bachelors?
+  _2023_ : Bridgewater State University, MA, United States | Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties
+  _2022_ : University of Colombo | Where to next after bachelors?
 
 ### EDITORIAL SERVICE
-_2023 - Present_ : Review Editor Animals of Clinical Epidemiology and Toxicology
-_2023 – Present_ : Review Editor in Frontiers in Chemistry
-_2023 - Present_ : Review Editor Bentham Science Publishers
-_2023 - Present_ : Review Editor Advances in Clinical Toxicology
+  _2023 - Present_ : Review Editor Animals of Clinical Epidemiology and Toxicology
+  _2023 – Present_ : Review Editor in Frontiers in Chemistry
+  _2023 - Present_ : Review Editor Bentham Science Publishers
+  _2023 - Present_ : Review Editor Advances in Clinical Toxicology
 
 ### LEADERSHIP EXPERIENCE
-_2021 – Present_ : E-board member of Northeastern Section Young Chemist Committee (NSYCC)
-_2021 – Present_ : Organizing annual NSYCC regional conference
-_2019 – 2022_    : Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
-_2020_           : Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
-_2019 - 2020_    : Graduate student Liaison of the Chemistry and Chemical Biology department
-_2019_           : Graduate student Panelist for the Chemistry open house
+  _2021 – Present_ : E-board member of Northeastern Section Young Chemist Committee (NSYCC)
+  _2021 – Present_ : Organizing annual NSYCC regional conference
+  _2019 – 2022_    : Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
+  _2020_           : Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
+  _2019 - 2020_    : Graduate student Liaison of the Chemistry and Chemical Biology department
+  _2019_           : Graduate student Panelist for the Chemistry open house
 
 ### REVIEW SERVICE TO PROFESSIONAL JOURNALS
 1. Genes
