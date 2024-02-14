@@ -8,28 +8,28 @@
 
 ### TECHNICAL SKILLS
 
-- **Genomics and data analyis** | DNA and RNA isolation, cDNA purification, Next generation sequencing (NGS), 10X genomics, Single cell and nucleus sequencing and data analyis with python and R based packages, Gene regulatory network analysis, AAV mediated gene delivery, RT-PCR, qPCR, PCR, Site directed mutagenesis, Cloning (Infusion and gateway), library preparation for sequencing, Sanger and Amplicon sequencing and data analysis, Primer designing, Vector/ Plasmid designing, Phylogeny analysis, Nanopore, SnapGene, Multi-omics
+  **Genomics and data analyis** | DNA and RNA isolation, cDNA purification, Next generation sequencing (NGS), 10X genomics, Single cell and nucleus sequencing and data analyis with python and R based packages, Gene regulatory network analysis, AAV mediated gene delivery, RT-PCR, qPCR, PCR, Site directed mutagenesis, Cloning (Infusion and gateway), library preparation for sequencing, Sanger and Amplicon sequencing and data analysis, Primer designing, Vector/ Plasmid designing, Phylogeny analysis, Nanopore, SnapGene, Multi-omics
 
-- **Protein based assays** | Protein Engineering, Method development, FPLC - Chromatography based techniques (UNICORN) (SEC, HIC, CEX, AEX and Affinity), Purity determination by HPLC (AGILENT), Tangential flow filteration (UF/DF) - 50 L scale.
+  **Protein based assays** | Protein Engineering, Method development, FPLC - Chromatography based techniques (UNICORN) (SEC, HIC, CEX, AEX and Affinity), Purity determination by HPLC (AGILENT), Tangential flow filteration (UF/DF) - 50 L scale.
   (Have purified 80+ proteins so far)
 
-- **Biochemical Characterization** | High throughput assays, 96 /multi plate assays, kinetics, use of liquid handlers, ELISA, UV-vis, FACS and fluorescence microscopy, FRET, Thermal stability, Immunoprecipitation, Binding assays, Primer extension assays, Gene-expression validation, Ligand binding assays, Antigen-Antibody reactions based experiments and Imaging
+  **Biochemical Characterization** | High throughput assays, 96 /multi plate assays, kinetics, use of liquid handlers, ELISA, UV-vis, FACS and fluorescence microscopy, FRET, Thermal stability, Immunoprecipitation, Binding assays, Primer extension assays, Gene-expression validation, Ligand binding assays, Antigen-Antibody reactions based experiments and Imaging
   
--  **Gel Electrophoresis** | SDS PAGE, Urea- Acrylamide, Western blot, Agarose, Dot Blot
+  **Gel Electrophoresis** | SDS PAGE, Urea- Acrylamide, Western blot, Agarose, Dot Blot
 
-- **Languages** | Python, R
+  **Languages** | Python, R
 
-- **OS** | Linux| Windows| Mac
+  **OS** | Linux| Windows| Mac
   
-- **Cell Line development** | HEK293T, CHO, Primary cell lines, Transfection, Transformation (Chemical and electoporation), Stable cell line development, Maintaining cell lines, Aseptic techniques, BSL2, Morphological studies. Microscopy, Passaging
+  **Cell Line development** | HEK293T, CHO, Primary cell lines, Transfection, Transformation (Chemical and electoporation), Stable cell line development, Maintaining cell lines, Aseptic techniques, BSL2, Morphological studies. Microscopy, Passaging
   
-- **DOE/Statistics** | JMP/ SPSS ANOVA, Python and R based packages
+  **DOE/Statistics** | JMP/ SPSS ANOVA, Python and R based packages
 
-- **Other assays & techniques** | Tissue/ blood sampling, cell studies, Preparation of mAbs, Toxicology,  Immunohistochemistry, Cytokine profiling
+  **Other assays & techniques** | Tissue/ blood sampling, cell studies, Preparation of mAbs, Toxicology,  Immunohistochemistry, Cytokine profiling
 
-- **NGS/Spatial transcriptomics Packages** | 10X genomics, Cellranger, Seurat, SCENIC+, Signic, NicheNet, Cellchat, Scanpy, pycisTopic
+  **NGS/Spatial transcriptomics Packages** | 10X genomics, Cellranger, Seurat, SCENIC+, Signic, NicheNet, Cellchat, Scanpy, pycisTopic
 
-- **Other** | Public speaking, Creative development, navigating technical challenges, Motivating varied groups, Mentorship
+  **Other** | Public speaking, Creative development, navigating technical challenges, Motivating varied groups, Mentorship
 
 ### PROFESSIONAL EXPERIENCE
 
