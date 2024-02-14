@@ -96,7 +96,7 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 
 ### INVITED TALKS
   - _2023_ : Bridgewater State University, MA, United States _"Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties"_
-  - _2022_ : University of Colombo, _ "Where to next after bachelors?"_
+  - _2022_ : University of Colombo, _"Where to next after bachelors?"_
 
 ### EDITORIAL SERVICE
   - _2023 - Present_ : Review Editor Animals of Clinical Epidemiology and Toxicology
