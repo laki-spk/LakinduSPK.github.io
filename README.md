@@ -87,34 +87,34 @@ DNA damage & Tolerance | Computational & theoretical chemistry labs    _(2018 SE
 - 2022 - Present | Schrodinger’s certified for molecular modeling, drug discovery, antibody engineering 
 
 ### PROFESSIONAL AFFILIATIONS
- 2023 - Present | Sigma XI honor society member
- 2019 – Present | Member of Americal Chemical Society (ACS)
- 2021 - Present | Northeast Section of Young Chemist Committee (NSYCC)
+- 2023 - Present | Sigma XI honor society member
+- 2019 – Present | Member of Americal Chemical Society (ACS)
+- 2021 - Present | Northeast Section of Young Chemist Committee (NSYCC)
 
 ### AWARDS and NOMINATIONS
- 2022 | Ph.D. Network travel grant
- 2020, 2021, 2022 | American Chemical Society Virtual Meeting scholarship award
- 2021 | Best poster presentation – FALL - American Chemical Society
- 2021 | Nominated for College of Science Dean’s Graduate Student Excellence Award in Leadership
- 2018 | Graduate student scholarship award, Northeastern university
+- 2022 | Ph.D. Network travel grant
+- 2020, 2021, 2022 | American Chemical Society Virtual Meeting scholarship award
+- 2021 | Best poster presentation – FALL - American Chemical Society
+- 2021 | Nominated for College of Science Dean’s Graduate Student Excellence Award in Leadership
+- 2018 | Graduate student scholarship award, Northeastern university
 
 ### INVITED TALKS
- 2023 | Bridgewater State University, MA, United States | Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties
- 2022 | University of Colombo | Where to next after bachelors?
+ - 2023 | Bridgewater State University, MA, United States | Effects on biochemical activity of cancer-associated DNA polymerase kappa mutations predicted by electrostatic properties
+ - 2022 | University of Colombo | Where to next after bachelors?
 
 ### EDITORIAL SERVICE
- 2023 - Present | Review Editor Animals of Clinical Epidemiology and Toxicology
- 2023 – Present | Review Editor in Frontiers in Chemistry
- 2023 - Present | Review Editor Bentham Science Publishers
- 2023 - Present | Review Editor Advances in Clinical Toxicology
+- 2023 - Present | Review Editor Animals of Clinical Epidemiology and Toxicology
+- 2023 – Present | Review Editor in Frontiers in Chemistry
+- 2023 - Present | Review Editor Bentham Science Publishers
+- 2023 - Present | Review Editor Advances in Clinical Toxicology
 
 ### LEADERSHIP EXPERIENCE
- 2021 – Present | E-board member of Northeastern Section Young Chemist Committee (NSYCC)
- 2021 – Present | Organizing annual NSYCC regional conference
- 2019 – 2022 | Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
- 2020 | Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
- 2019 | 2020 - Graduate student Liaison of the Chemistry and Chemical Biology department
- 2019 | Graduate student Panelist for the Chemistry open house
+- 2021 – Present | E-board member of Northeastern Section Young Chemist Committee (NSYCC)
+- 2021 – Present | Organizing annual NSYCC regional conference
+- 2019 – 2022 | Logistic/ Planning Committee member of New England Future Faculty workshop (FFW) (organized three workshops for three consecutive years)
+- 2020 | Moderator of follow-up session to the FFW around navigating an academic job search during the COVID-19 pandemic
+- 2019 | 2020 - Graduate student Liaison of the Chemistry and Chemical Biology department
+- 2019 | Graduate student Panelist for the Chemistry open house
 
 ### REVIEW SERVICE TO PROFESSIONAL JOURNALS
 1. Genes
